@@ -1,0 +1,4 @@
+[core]
+    remote = myssh
+['remote "myssh"']
+    url = ssh://ubuntu@51.83.10.157/home/ubuntu/mlops/dvc-store
