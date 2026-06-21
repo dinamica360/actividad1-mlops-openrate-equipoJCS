@@ -1,0 +1,5 @@
+outs:
+- md5: cbbb63f931d63c0c83f2af44a3a38991
+  size: 56507
+  hash: md5
+  path: openrate.csv
