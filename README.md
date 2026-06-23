@@ -136,3 +136,7 @@ Si `dvc pull` falla, revisar:
 - acceso SSH al servidor,
 - existencia del plugin `dvc-ssh`,
 - configuración del remote en `.dvc/config`.
+
+
+
+https://dvc.org/doc/user-guide/how-to/setup-google-drive-remote#using-a-custom-google-cloud-project-recommended
