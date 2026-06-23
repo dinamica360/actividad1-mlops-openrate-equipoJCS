@@ -1,0 +1,10 @@
+artifact_location: file:///C:/app/mlops/actividad1-mlops-openrate-equipoJCS/models/mlruns/619050207405890066/models/m-db68ff402b8f473fb9dbf279fae002af/artifacts
+creation_timestamp: 1782217658658
+experiment_id: '619050207405890066'
+last_updated_timestamp: 1782217664278
+model_id: m-db68ff402b8f473fb9dbf279fae002af
+model_type: null
+name: notification_open_logreg
+source_run_id: 4f7484f447424c808d92638c6d4e3887
+status: 2
+status_message: null

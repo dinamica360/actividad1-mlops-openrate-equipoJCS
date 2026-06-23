@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/app/mlops/actividad1-mlops-openrate-equipoJCS/models/mlruns/619050207405890066/ae946bd8129f4525a970a81cf61bcd49/artifacts
+end_time: 1782217609175
+entry_point_name: ''
+experiment_id: '619050207405890066'
+lifecycle_stage: active
+run_id: ae946bd8129f4525a970a81cf61bcd49
+run_name: random_forest_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782217600877
+status: 3
+tags: []
+user_id: javie

@@ -1,0 +1,40 @@
+artifact_path: file:///C:/app/mlops/actividad1-mlops-openrate-equipoJCS/models/mlruns/619050207405890066/models/m-fe977e8a50174482a6aecfd1e9271b3d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-fe977e8a50174482a6aecfd1e9271b3d
+model_size_bytes: 13696
+model_uuid: m-fe977e8a50174482a6aecfd1e9271b3d
+prompts: null
+run_id: 95a56300b7be49b7be1204ca130fe84e
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "user_id", "required": true}, {"type": "string",
+    "name": "site", "required": true}, {"type": "string", "name": "campaign_type",
+    "required": true}, {"type": "string", "name": "device_os", "required": true},
+    {"type": "long", "name": "hour_of_day", "required": true}, {"type": "string",
+    "name": "day_of_week", "required": true}, {"type": "double", "name": "historical_open_rate",
+    "required": true}, {"type": "long", "name": "historical_push_count", "required":
+    true}, {"type": "long", "name": "days_since_last_open", "required": true}, {"type":
+    "string", "name": "segment", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-06-23 12:27:44.824089'
