@@ -1,0 +1,10 @@
+artifact_location: file:///C:/app/mlops/actividad1-mlops-openrate-equipoJCS/models/mlruns/619050207405890066/models/m-262051b725fb4044a2bd8ef6427129f6/artifacts
+creation_timestamp: 1782216519232
+experiment_id: '619050207405890066'
+last_updated_timestamp: 1782216532784
+model_id: m-262051b725fb4044a2bd8ef6427129f6
+model_type: null
+name: notification_open_rf_model
+source_run_id: 1590d4654a6a49b882f7162bb9b76285
+status: 2
+status_message: null
