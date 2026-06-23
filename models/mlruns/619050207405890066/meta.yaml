@@ -1,0 +1,6 @@
+artifact_location: file:///C:/app/mlops/actividad1-mlops-openrate-equipoJCS/models/mlruns/619050207405890066
+creation_time: 1782176247725
+experiment_id: '619050207405890066'
+last_update_time: 1782176247725
+lifecycle_stage: active
+name: openrate-notifications
